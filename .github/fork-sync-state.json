@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-27T11:30:42.325906+00:00",
+  "upstream": "1c7/chinese-independent-developer",
+  "upstream_branch": "master",
+  "upstream_commit": "5c75bcda1e106d63aca8e33c64cf55293624db3d",
+  "version": 1,
+  "workflow_policy": "preserve fork workflows; never import upstream workflows"
+}
